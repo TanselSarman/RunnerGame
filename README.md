@@ -19,13 +19,13 @@
 
 -Unity is an endless running-diamond collecting game developed with C # language with game engine.
 
-- For performance, the roads in front of the character are dynamically formed at a certain distance and the roads behind are destroyed.
+-For performance, the roads in front of the character are dynamically formed at a certain distance and the roads behind are destroyed.
 
 -There are two texts in the created canvas.
     -Green is the number of diamonds collected during the game.
     -Red is the maximum number of diamonds it collects.
    
-- The maximum number of diamonds is saved and the maximum score is printed in the red text when the game starts again.
+-The maximum number of diamonds is saved and the maximum score is printed in the red text when the game starts again.
 
 ---------- NOTE: Playback video is available in the folder.
 
